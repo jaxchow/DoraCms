@@ -1,0 +1,2 @@
+export const WECHAT_FORMSTATE = 'WECHAT_FORMSTATE';
+export const WECHAT_LIST = 'WECHAT_LIST';

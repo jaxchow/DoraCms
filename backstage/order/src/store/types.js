@@ -1,0 +1,2 @@
+export const ORDER_FORMSTATE = 'ORDER_FORMSTATE';
+export const ORDER_LIST = 'ORDER_LIST';
