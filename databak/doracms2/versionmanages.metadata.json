@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"doracms2.versionmanages"}],"uuid":"3ad3f0842c274373b937d768a8d4ff7d"}

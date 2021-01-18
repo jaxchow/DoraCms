@@ -1,1 +1,1 @@
-{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"githubcms.contentcategories"},{"v":2,"key":{"creator":1},"name":"creator_1","ns":"githubcms.contentcategories","background":true}],"uuid":"04f86b9788a9430da3b08763e62d2a3e"}
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"doracms2.contentcategories"},{"v":{"$numberInt":"2"},"key":{"creator":{"$numberInt":"1"}},"name":"creator_1","ns":"doracms2.contentcategories","background":true}],"uuid":"fb326710699c49d9b55fd2dec9d8d4d3"}
