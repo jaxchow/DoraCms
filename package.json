@@ -35,7 +35,7 @@
     "shortid": "^2.2.14",
     "stream-wormhole": "^1.1.0",
     "trek-captcha": "^0.4.0",
-    "validator": "^11.1.0",
+    "validator": "^13.7.0",
     "xss": "^1.0.6"
   },
   "devDependencies": {
