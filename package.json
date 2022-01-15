@@ -31,7 +31,7 @@
     "node-unzip-2": "^0.2.8",
     "nodemailer": "^6.3.0",
     "qr-image": "^3.2.0",
-    "shelljs": "^0.8.4",
+    "shelljs": "^0.8.5",
     "shortid": "^2.2.14",
     "stream-wormhole": "^1.1.0",
     "trek-captcha": "^0.4.0",
