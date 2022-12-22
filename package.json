@@ -19,7 +19,7 @@
     "egg-view-nunjucks": "^2.2.0",
     "iconv-lite": "^0.5.0",
     "js-cache": "^1.0.3",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "koa-compress": "^3.0.0",
     "lodash": "^4.17.15",
     "mammoth": "^1.4.9",
